@@ -1,6 +1,7 @@
 # Cumberlandfalls
-Cumberland Falls Bridge
+Cumberland Falls is the second largest waterfall east of the Rocky Mountains located in Corbin, KY.
 
+Cumberland Falls Bridge
 
 ![Caption of map](CumberlandFalls.jpg)     
 *Caption of Map*
